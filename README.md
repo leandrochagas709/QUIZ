@@ -41,7 +41,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/chagasleandro/Quiz_React-App.git
+$ git clone https://github.com/leandrochagas709/Quiz.git
 # Access
 $ cd Quiz_React-App
 # Install dependencies
